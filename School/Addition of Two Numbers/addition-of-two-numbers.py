@@ -1,8 +1,8 @@
 #User function Template for python3
 class Solution:
     def addition (ob,A,B):
-        res = A + B
-        return res
+        # code here 
+        return(A + B)
 
 
 #{ 
